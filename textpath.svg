@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <defs>
+    <path id="first_path" d="M100,200a100,100,0,0,1,200,0"/>
+  </defs>
+  <text>
+    <textPath href="#first_path">
+      Quick brown fox jumps over the lazy dog.
+    </textPath>
+  </text>
+</svg>
